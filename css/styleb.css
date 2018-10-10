@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin-left: 20px;
+	text-indent: 10px;
+}
+	
+body {
+	background-color: grey;
+}
+.head{
+	display: block;
+	width: 100%;
+	height: 350px;
+	background-color: blue;
+}
+ .head_title{
+ 	display: block;
+ 	width: 100%;
+ 	height: 70px;
+ 	background-color: red;
+ }
+ .head_title h4,p {
+ 	text-align: right;
+ 	margin: 10px;
+ }
+ .head_title h4{
+ 	text-decoration: underline;
+ }
+ .head_img{
+ 	display: block;
+ 	width: 200px;
+ 	height: 280px;
+ 	background-color: green;	
+ }
+ .head_img img {
+ 	width: 155px;
+ 	height: 250px;
+ 	margin: 20px;
+ }
